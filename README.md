@@ -2,7 +2,11 @@
 
 ## Overview
 
-The Card Churner project is designed to assist those interested in the practice of card churning, a technique where individuals sign up for credit cards to avail of promotional offers and rewards, and then potentially close them after reaping the benefits. This project automates the process by scraping [rwrds.com.au](rwrds.com.au) website for Qantas and gift card reward offers, computing important metrics, and highlighting the most lucrative offers. The result is an easily digestible HTML file with top offers.
+The Card Churner project is designed to assist those interested in the practice of card churning, a technique where individuals sign up for credit cards to avail of promotional offers and rewards, and then potentially close them after reaping the benefits. 
+
+This project is for Australian offers and rewards systems.
+
+This project automates the process by scraping [rwrds.com.au](rwrds.com.au) website for Qantas and gift card reward offers, computing important metrics, and highlighting the most lucrative offers. The result is an easily digestible HTML file with top offers.
 
 ## Context on Card Churning
 

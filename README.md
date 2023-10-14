@@ -45,7 +45,7 @@ Before evaluating information from this product, please:
    - `format_data_for_display()`: Prepares the offers for display, adjusting formats for better readability.
 4. **Visualization:**
    - `save_and_open_html_combined()`: Creates a combined HTML file for both Qantas and cash offers, applying custom styling and presenting top offers.
-5. **Main Processing:** The script fetches previous churn history, scrapes current offers, processes, and formats the data, and finally generates an HTML file showcasing the top offers.
+5. **Main Processing:** The script fetches previous churn history, scrapes current offers, processes, and formats the data, and finally generates an HTML file showcasing the top offers. The table will strike out rows with monthly spends over $1000, as spends over this would change my financial behaviour. You can adjust this to your needs.
 
 ## Prerequisites
 

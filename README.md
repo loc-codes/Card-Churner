@@ -69,7 +69,4 @@ Before evaluating information from this product, please:
 > - Ensure `churn_history.csv` is updated with relevant data before running the script.
 > - Make sure all the required libraries are installed.
 
-**Contributions**
-Pull requests are welcome! For major changes, please open an issue first to discuss what you would like to change.
-
 Happy Churning! 🎉
